@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 
 	$("#goRight1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreRight1.jpg')");
+		$("#exploreBody").css("background-image", "url('img/Screen Shot 2015-11-26 at 10.28.53 AM.jpg')");
 		$("#goRight1").hide();
 		$("#goBack").hide();
 		$("#goRight-Straight1").show();
@@ -9,7 +9,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreRight2.jpg')");
+		$("#exploreBody").css("background-image", "url('img/4.jpg')");
 		$("#goRight-Straight1").hide();
 		$("#goRight-Straight2").show();
 	});
