@@ -15,7 +15,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/Screen Shot 2015-11-26 at 10.32.25 AM (1).png')");
+		$("#exploreBody").css("background-image", "url('img/Screen Shot 2015-11-26 at 10.32.25 AM (1).png3')");
 		$("#goRight-Straight2").hide();
 		$("#goRight-Straight3").show();
 	});
@@ -34,19 +34,19 @@ $( document ).ready(function() {
 
 
 	$("#goLeft1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreLeft1.jpg')");
+		$("#exploreBody").css("background-image", "url('img/5.png')");
 		$("#goLeft1").hide();
 		$("#goLeft2").show();
 	});
 
 	$("#goLeft-Straight1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreLeft2.jpg')");
+		$("#exploreBody").css("background-image", "url('img/Screen Shot 2015-11-26 at 10.32.25 AM (2).png')");
 		$("#goLeft2").hide();
 		$("#goLeft3").show();
 	});
 
 	$("#goLeft-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreLeft3.jpg')");
+		$("#exploreBody").css("background-image", "url('img/Screen Shot 2015-11-26 at 10.32.25 AM (2).png')");
 		$("#goLeft3").hide();
 		$("#goBack").show();
 	});
