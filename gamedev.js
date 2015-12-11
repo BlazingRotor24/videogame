@@ -46,7 +46,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goLeft-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/Screen Shot 2015-11-26 at 10.32.25 AM (2).png')");
+		$("#exploreBody").css("background-image", "url('img/pc3.jpg");
 		$("#goLeft3").hide();
 		$("#goBack").show();
 	});
