@@ -40,7 +40,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goLeft-Straight1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/ Screen Shot 2015-11-26 at 10.32.25 AM (1).png.png')");
+		$("#exploreBody").css("background-image", "url('img/ 18q996f40afkxjpg')");
 		$("#goLeft2").hide();
 		$("#goLeft3").show();
 	});
