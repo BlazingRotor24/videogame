@@ -21,13 +21,13 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight3").click(function() {
-		$("#exploreBody").css("background-image", "url('img/Screen Shot 2015-11-26 at 10.32.35 AM.jpg')");
+		$("#exploreBody").css("background-image", "url('img/Clowny.gif')");
 		$("#goRight-Straight3").hide();
 		$("#goRight-Right2").show();
 	});
 
 	$("#goRight-Right2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/explore2-goBack2.jpg')");
+		$("#exploreBody").css("background-image", "url('img/Images of awesomeness.jpg')");
 		$("#goRight-Right2").hide();
 		$("#goBack").show();
 	});
@@ -40,20 +40,20 @@ $( document ).ready(function() {
 	});
 
 	$("#goLeft-Straight1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/Screen Shot 2015-11-26 at 10.32.25 AM (2).png')");
+		$("#exploreBody").css("background-image", "url('img/ 18q996f40afkxjpg;op')");
 		$("#goLeft2").hide();
 		$("#goLeft3").show();
 	});
 
 	$("#goLeft-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/Screen Shot 2015-11-26 at 10.32.25 AM (2).png')");
+		$("#exploreBody").css("background-image", "url('img/pc3.jpg");
 		$("#goLeft3").hide();
 		$("#goBack").show();
 	});
 
 
 	$("#goBack").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreHome1.jpg')");
+		$("#exploreBody").css("background-image", "url('img/hqdefault.jpg')");
 		$("#goBack").hide();
 		$("#goRight1").show();
 		$("#goLeft1").show();

@@ -15,17 +15,17 @@ body {
 }
 
 .splashTitle {
-	color: #fff;
-    font-size: 8em;
+	color: #faf;
+    font-size: 10em;
     text-transform: uppercase;
     text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
 }
 
 .button {
 	border: 5px solid #383838;
-    color: #383838;
+    color: #393888;
     padding: 20px 50px;
-    font-size: 5em;
+    font-size: 8em;
     text-decoration: none;
     background-color: #abc;
     box-shadow: 15px 15px 80px #555;
@@ -42,12 +42,13 @@ body {
 #exploreBody {
 	background-image: url("img/Screen Shot 2015-11-26 at 10.32.25 AM.png");
 	background-position: bottom center;
+    border: 200px
 
 }
 
 .go {
 	position: absolute;
-	color: white;
+	color: red;
 	position: absolute;
     padding: 20px 10px;
     color: white;
@@ -131,7 +132,7 @@ body {
 .hudObj {
     width: 35%;
     display: inline-block;
-    padding: 10px;
+    padding: 15px;
 }
 
 #invTitle {
@@ -141,10 +142,10 @@ display: inline;
 
 .invSlot1 {
 	display: inline;
-	width: 80px;
-	height: 80px;
-	border: 5px dashed #bbb;
+	width: 60px;
+	height: 60px;
+	border: 6px dashed #bbb;
 	padding: 10px 10px;
     margin: 20px;
-    font-size:0.6em;
+    font-size:0.8em;
 }
