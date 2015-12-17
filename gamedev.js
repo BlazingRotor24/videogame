@@ -40,7 +40,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goLeft-Straight1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/ 18q996f40afkxjpg')");
+		$("#exploreBody").css("background-image", "url('img/ 18q996f40afkxjpg;op')");
 		$("#goLeft2").hide();
 		$("#goLeft3").show();
 	});
