@@ -21,7 +21,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight3").click(function() {
-		$("#exploreBody").css("background-image", "url('img/Screen Shot 2015-11-26 at 10.32.35 AM.jpg')");
+		$("#exploreBody").css("background-image", "url('img/anigif_enhanced-9206-1416656107-1.gif')");
 		$("#goRight-Straight3").hide();
 		$("#goRight-Right2").show();
 	});
