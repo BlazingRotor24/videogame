@@ -21,7 +21,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight3").click(function() {
-		$("#exploreBody").css("background-image", "url('img/anigif_enhanced-9206-1416656107-1.gif')");
+		$("#exploreBody").css("background-image", "url('img/Clowny.gif')");
 		$("#goRight-Straight3").hide();
 		$("#goRight-Right2").show();
 	});
